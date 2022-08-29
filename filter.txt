@@ -1,0 +1,8 @@
+! Title: PBS Location Bypass
+! Description: Attempts to remove the location errors. https://github.com/BR2K5/pbs-location-bypass
+! Author: Bobby Resine
+
+##.location-request
+##.livestream-rejected.location-request
+##.player-overlay__inner
+##.player-overlay
