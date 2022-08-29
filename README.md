@@ -5,5 +5,6 @@ Recommended AdBlocker: [uBlock Origin](https://ublockorigin.com)
 
 Currently in Work.
 
-Add it manually using this RAW link — <code>https://github.com/BR2K5/pbs-location-bypass/raw/main/filter.txt</code>
+Add it manually using this RAW link — <code>https://github.com/BR2K5/pbs-location-bypass/raw/main/filter.txt</code
+
 or [Copy](https://github.com/BR2K5/pbs-location-bypass/raw/main/filter.txt) The Filter To Your Filter Lists.
