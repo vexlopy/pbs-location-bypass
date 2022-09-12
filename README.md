@@ -11,9 +11,10 @@ or [Copy](https://github.com/BR2K5/pbs-location-bypass/raw/main/filter.txt) The 
 # AdBlock Plus
 [Subscribe](https://subscribe.adblockplus.org/?location=https://github.com/BR2K5/pbs-location-bypass/raw/main/filter.txt&amp;title=PBS%20Location%20Bypass)
 
+# Notice:
 This will work with only desktop, since firefox's ublock mobile extention has issues. so do this manualy:
 
-##.location-request
-##.livestream-rejected.location-request
-##.player-overlay__inner
-##.player-overlay
+.location-request
+.livestream-rejected.location-request
+.player-overlay__inner
+.player-overlay
