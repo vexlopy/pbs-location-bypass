@@ -52,3 +52,15 @@ Windows:
         </tr>
     </tbody>
 </table>
+
+Android:
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px"/>
+                <div>Firefox</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
