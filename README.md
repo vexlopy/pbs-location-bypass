@@ -12,9 +12,7 @@ Add it manually using this RAW link — <code>https://github.com/BR2K5/pbs-locat
 # Notice:
 This will work with only desktop, since firefox's ublock mobile extention has issues.
 
-Here is the [Livestream Player](https://player.pbs.org/ga-livestream-portalplayer) to view, so do this manualy.
-
-## For Those Who have issues on doing so, Check Out The [Tutorial](https://github.com/BR2K5/pbs-location-bypass/wiki/Tutorial)
+For Those Who have issues on doing so, Check Out The [Tutorial](https://github.com/BR2K5/pbs-location-bypass/wiki/Tutorial)
 
 # Tested on:
 Windows:
