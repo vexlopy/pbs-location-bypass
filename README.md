@@ -14,13 +14,7 @@ This will work with only desktop, since firefox's ublock mobile extention has is
 
 Here is the [Livestream Player](https://player.pbs.org/ga-livestream-portalplayer) to view, so do this manualy.
 
-.location-request
-
-.livestream-rejected.location-request
-
-.player-overlay__inner 
-
-.player-overlay
+## For Those Who have issues on doing so, Check Out The [Tutorial](https://github.com/BR2K5/pbs-location-bypass/wiki/Tutorial)
 
 # Tested on:
 Windows:
