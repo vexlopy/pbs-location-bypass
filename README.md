@@ -10,9 +10,9 @@ Recommended AdBlocker: [uBlock Origin](https://ublockorigin.com)
 Add it manually using this RAW link — <code>https://github.com/BR2K5/pbs-location-bypass/raw/main/filter.txt</code>
 
 # Notice:
-This will work with only desktop, since firefox's ublock mobile extention has issues.
+This will only work with desktops and android phones/tablets, it does not load well on firefox android.
 
-For Those Who have issues on doing so, Check Out The [Tutorial](https://github.com/BR2K5/pbs-location-bypass/wiki/Tutorial)
+For Those Who have issues on doing so, or users who are on firefox android, Check Out The [Tutorial](https://github.com/BR2K5/pbs-location-bypass/wiki/Tutorial)
 
 # Tested on:
 Windows:
