@@ -12,7 +12,7 @@ Add it manually using this RAW link — <code>https://github.com/BR2K5/pbs-locat
 # Notice:
 This will only work with desktops and android phones/tablets, it does not load well on firefox android.
 
-For Those Who have issues on doing so, or users who are on firefox android, Check Out The [Tutorial](https://github.com/BR2K5/pbs-location-bypass/wiki/Tutorial)
+For Those Who have issues on doing so, or users who are on firefox android, Check Out The [Tutorial](https://github.com/BR2K5/pbs-location-bypass/wiki/Windows-Chrome,-MacOS-Chrome,-&-Android-Tutorial)
 
 # Tested on:
 Windows:
@@ -50,6 +50,18 @@ Android:
             <td align="center">
                 <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px"/>
                 <div>Firefox</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+iOS:
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <img src="https://github.com/alrra/browser-logos/raw/main/src/safari-ios/safari-ios_48x48.png" alt="Firefox" width="24px" height="24px"/>
+                <div>Safari (Requires Hyperweb)</div>
             </td>
         </tr>
     </tbody>
