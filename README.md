@@ -20,23 +20,23 @@ Windows:
     <tbody>
         <tr>
             <td align="center">
-                <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px"/>
+                <img src="https://github.com/alrra/browser-logos/raw/main/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px"/>
                 <div>Chrome</div>
             </td>
             <td align="center">
-                <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Edge" width="24px" height="24px"/>
+                <img src="https://github.com/alrra/browser-logos/raw/main/src/edge/edge_48x48.png" alt="Edge" width="24px" height="24px"/>
                 <div>Edge</div>
             </td>
             <td align="center">
-                <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px"/>
+                <img src="https://github.com/alrra/browser-logos/raw/main/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px"/>
                 <div>Firefox</div>
             </td>
             <td align="center">
-                <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px"/>
+                <img src="https://github.com/alrra/browser-logos/raw/main/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px"/>
                 <div>Opera</div>
             </td>
             <td align="center">
-                <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/brave/brave_48x48.png" alt="Brave" width="24px" height="24px"/>
+                <img src="https://github.com/alrra/browser-logos/raw/main/src/brave/brave_48x48.png" alt="Brave" width="24px" height="24px"/>
                 <div>Brave</div>
             </td>
         </tr>
@@ -48,7 +48,7 @@ Android:
     <tbody>
         <tr>
             <td align="center">
-                <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px"/>
+                <img src="https://github.com/alrra/browser-logos/raw/main/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px"/>
                 <div>Firefox</div>
             </td>
         </tr>
