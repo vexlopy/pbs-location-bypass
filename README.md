@@ -3,6 +3,8 @@ A Simple AdBlock Filter to Bypass The Location of the PBS Livestream. (USA Only/
 
 Recommended AdBlockers: [uBlock Origin](https://ublockorigin.com), [AdNauseam](https://adnauseam.io) & [Hyperweb [iOS Only]](https://hyperweb.app)
 
+FAIR WARNING: ANY PAID ADBLOCKERS ARE NOT-RECOMMENDED.
+
 # AdBlock Plus/uBlock Origin
 [Subscribe](https://subscribe.adblockplus.org/?location=https://github.com/BR2K5/pbs-location-bypass/raw/main/filter.txt&amp;title=PBS%20Location%20Bypass)
 
