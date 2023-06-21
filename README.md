@@ -61,7 +61,7 @@ iOS:
         <tr>
             <td align="center">
                 <img src="https://github.com/alrra/browser-logos/raw/main/src/safari-ios/safari-ios_48x48.png" alt="Firefox" width="24px" height="24px"/>
-                <div>Safari (Requires [Hyperweb](https://hyperweb.app/))</div>
+                <div>Safari: Requires [Hyperweb](https://hyperweb.app/)</div>
             </td>
         </tr>
     </tbody>
