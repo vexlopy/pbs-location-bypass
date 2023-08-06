@@ -45,6 +45,18 @@ Windows:
     </tbody>
 </table>
 
+Linux:
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <img src="https://github.com/alrra/browser-logos/raw/main/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px"/>
+                <div>Firefox</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 Android:
 <table>
     <tbody>
