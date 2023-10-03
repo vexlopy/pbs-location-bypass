@@ -11,6 +11,9 @@ FAIR WARNING: ANY PAID ADBLOCKERS ARE NOT-RECOMMENDED.
 # All-Supported AdBlockers
 Add it manually using this RAW link — <code>https://github.com/BR2K5/pbs-location-bypass/raw/main/filter.txt</code>
 
+or add this to your filters:
+player.pbs.org##.player-overlay
+
 # Notice:
 This will only work with desktops and android phones/tablets, it does not load well on firefox android.
 
