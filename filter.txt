@@ -1,5 +1,5 @@
 ! Title: PBS Location Bypass
-! Description: Attempts to remove the location errors. https://github.com/BR2K5/pbs-location-bypass
-! Author: Bobby Resine
+! Description: Attempts to remove the location issues.
+! Author: kamvaro
 
 player.pbs.org##.player-overlay
