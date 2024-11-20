@@ -6,17 +6,17 @@ Recommended AdBlockers: [uBlock Origin](https://ublockorigin.com), [AdNauseam](h
 FAIR WARNING: ANY PAID ADBLOCKERS ARE NOT-RECOMMENDED.
 
 # AdBlock Plus/uBlock Origin
-[Subscribe](https://subscribe.adblockplus.org/?location=https://github.com/BR2K5/pbs-location-bypass/raw/main/filter.txt&amp;title=PBS%20Location%20Bypass)
+[Subscribe](https://subscribe.adblockplus.org/?location=https://github.com/kamvaro/pbs-location-bypass/raw/main/filter.txt&amp;title=PBS%20Location%20Bypass)
 
 # All-Supported AdBlockers
-Add it manually using this RAW link — <code>https://github.com/BR2K5/pbs-location-bypass/raw/main/filter.txt</code>
+Add it manually using this RAW link — <code>https://github.com/kamvaro/pbs-location-bypass/raw/main/filter.txt</code>
 
 or add this to your filters — <code>player.pbs.org##.player-overlay</code>
 
 # Notice:
 This will only work with desktops and android phones/tablets, it does not load well on firefox android.
 
-For Those Who have issues on doing so, or users who are on firefox android, Check Out The [Tutorial](https://github.com/BR2K5/pbs-location-bypass/wiki/Windows-Chrome,-MacOS-Chrome,-&-Android-Tutorial)
+For Those Who have issues on doing so, or users who are on firefox android, Check Out The [Tutorial](https://github.com/kamvaro/pbs-location-bypass/wiki/Windows-Chrome,-MacOS-Chrome,-&-Android-Tutorial)
 
 # Tested on:
 Windows:
